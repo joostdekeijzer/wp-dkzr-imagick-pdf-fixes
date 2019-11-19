@@ -1,0 +1,18 @@
+{
+    "name": "dkzr/dkzr-fix-imagick-pdf",
+    "description": "Imagick PDF fixes"
+    "keywords": ["wordpress"],
+    "homepage": "https://dkzr.nl/",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Joost de Keijzer",
+            "email": "j@dkzr.nl",
+            "homepage": "https://dkzr.nl/"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "extra": {
+        "installer-name": "dkzr-fix-imagick-pdf"
+    }
+}

@@ -1,0 +1,19 @@
+<?php
+require_once ABSPATH . WPINC . '/class-wp-image-editor.php';
+require_once ABSPATH . WPINC . '/class-wp-image-editor-imagick.php';
+
+class DKZR_Image_Editor_Imagick_pdf extends WP_Image_Editor_Imagick {
+  public function load() {
+    $return = parent::load();
+
+    if ( $return ) {
+      $file_extension = strtolower( pathinfo( $this->file, PATHINFO_EXTENSION ) );
+
+      if ( 'pdf' === $file_extension ) {
+        $this->image->setImageAlphaChannel( Imagick::ALPHACHANNEL_REMOVE );
+      }
+    }
+
+    return $return;
+  }
+}
