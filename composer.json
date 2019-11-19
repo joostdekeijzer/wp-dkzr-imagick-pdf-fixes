@@ -1,5 +1,5 @@
 {
-    "name": "dkzr/dkzr-fix-imagick-pdf",
+    "name": "dkzr/dkzr-imagick-pdf-fixes",
     "description": "Imagick PDF fixes"
     "keywords": ["wordpress"],
     "homepage": "https://dkzr.nl/",
@@ -13,6 +13,6 @@
     ],
     "type": "wordpress-plugin",
     "extra": {
-        "installer-name": "dkzr-fix-imagick-pdf"
+        "installer-name": "dkzr-imagick-pdf-fixes"
     }
 }

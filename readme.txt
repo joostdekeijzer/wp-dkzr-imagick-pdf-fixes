@@ -1,6 +1,6 @@
 === Imagick PDF fixes ===
 Contributors: joostdekeijzer
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=j@dkzr.nl&item_name=dkzr-fix-imagick-pdf+WordPress+plugin&item_number=Joost+de+Keijzer&currency_code=EUR
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=j@dkzr.nl&item_name=dkzr-imagick-pdf-fixes+WordPress+plugin&item_number=Joost+de+Keijzer&currency_code=EUR
 Tags: media, image, pdf, thumbnail
 Requires at least: 5.0
 Tested up to: 5.3
