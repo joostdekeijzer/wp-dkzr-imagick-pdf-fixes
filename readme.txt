@@ -2,9 +2,9 @@
 Contributors: joostdekeijzer
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=j@dkzr.nl&item_name=dkzr-imagick-pdf-fixes+WordPress+plugin&item_number=Joost+de+Keijzer&currency_code=EUR
 Tags: media, image, pdf, thumbnail
+Stable tag: 1.0.2
 Requires at least: 5.0
 Tested up to: 5.3
-Stable tag: 1.0.1
 Requires PHP: 7.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

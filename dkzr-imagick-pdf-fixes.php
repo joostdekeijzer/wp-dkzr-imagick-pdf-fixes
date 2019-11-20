@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Imagick PDF fixes
- * Version: 1.0.1
+ * Version: 1.0.2
  * Description: Imagick doesn't handle tranparency with current WordPress settings. Now it does.
  * Author: Joost de Keijzer
  * Author URI: https://dkzr.nl
