@@ -11,6 +11,10 @@ class DKZR_Image_Editor_Imagick_pdf extends WP_Image_Editor_Imagick {
 
       if ( 'pdf' === $file_extension ) {
         $this->image->setImageAlphaChannel( Imagick::ALPHACHANNEL_REMOVE );
+
+        // alternative
+        //$this->image->setImageBackgroundColor('white');
+        //$this->image = $this->image->mergeImageLayers( Imagick::LAYERMETHOD_FLATTEN );
       }
     }
 
