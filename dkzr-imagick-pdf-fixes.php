@@ -6,6 +6,7 @@
  * Author: Joost de Keijzer
  * Author URI: https://dkzr.nl
  * Plugin URI: https://dkzr.nl
+ * Update URI: https://dkzr.dev/wp/plugins/dkzr-imagick-pdf-fixes/
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
