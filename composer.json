@@ -14,5 +14,8 @@
     "type": "wordpress-plugin",
     "extra": {
         "installer-name": "dkzr-imagick-pdf-fixes"
+    },
+    "require": {
+        "composer/installers": "^2.0"
     }
 }
