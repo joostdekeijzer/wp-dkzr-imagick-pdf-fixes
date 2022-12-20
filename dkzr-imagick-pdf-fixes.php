@@ -1,12 +1,13 @@
 <?php
 /**
  * Plugin Name: Imagick PDF fixes
- * Version: 1.0.2
+ * Version: 1.0.3
  * Description: Imagick doesn't handle tranparency with current WordPress settings. Now it does.
  * Author: Joost de Keijzer
  * Author URI: https://dkzr.nl
  * Plugin URI: https://dkzr.nl
  * Update URI: https://api.dkzr.nl/wp/update-check/
+ * Composer Package Name: dkzr/imagick-pdf-fixes
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
